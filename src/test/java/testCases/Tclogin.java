@@ -103,7 +103,7 @@ public class Tclogin {
 		
 	}
 	
-	@Test(priority = 2, enabled = false)
+	@Test(priority = 2, enabled = true)
 	public void FarmerFmanTest1() throws IOException, Exception {
 		ExtentTest test = report.createTest("FarmerFmanTest");
 		FarmerFman farmer = PageFactory.initElements(driver, FarmerFman.class);

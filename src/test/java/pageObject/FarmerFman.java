@@ -246,13 +246,13 @@ public class FarmerFman extends commonComponents {
 			// clickingOnWebElement(FarmerNew,20);
 			selectRadioButton(FarmerNew, "Farmer");
 			Thread.sleep(1000);
-			senKeysWebElement(NewFarmerCode, "1245928");
+			senKeysWebElement(NewFarmerCode, "1245929");
 			senKeysWebElement(BeneficiaryInGovernmentScheme, "Ujwal scheme");
 			senKeysWebElement(NameoftheScheme, "DOC scheme");
 			senKeysWebElement(GovernmentDepartment, "Agri Department");
 
 			// Personal Information
-			senKeysWebElement(FarmersFirstName, "Jaidev");
+			senKeysWebElement(FarmersFirstName, "Manu");
 			senKeysWebElement(FarmersSurname, "Antony");
 			selectDropdownValue2(Gender, "Male");
 			selectDropdownValue2(Education, "Secondary");
@@ -271,7 +271,7 @@ public class FarmerFman extends commonComponents {
 
 			// Contact Information
 			senKeysWebElement(FarmerAddress, "10-iob street,RS Puram,CBE-10");
-			senKeysWebElement(MobileNumber1, "0994");
+			senKeysWebElement(MobileNumber1, "09942456789");
 			senKeysWebElement(MobileNumber2, "08967888885");
 			senKeysWebElement(Email, "pradesh@sourcetrace.com");
 			selectDropdownValue2(Country, "C006-Kenya");

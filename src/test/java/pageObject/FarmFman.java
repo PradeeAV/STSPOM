@@ -28,7 +28,7 @@ public class FarmFman extends commonComponents{
    // @FindBy(xpath = "/html/body/div[4]/ul/li[4]/ul/li[2]/a")
    // public WebElement FarmerRegistration;
 	
-	@FindBy(xpath = "//a[contains(text(),'Kamal')]")
+	@FindBy(xpath = "//a[contains(text(),'Manu')]")
 	public WebElement FarmerDetail;
 	
 	@FindBy(linkText ="Plot")
@@ -125,7 +125,7 @@ public class FarmFman extends commonComponents{
 		        Farm.click();
 		        Thread.sleep(2000);
 		        AddFarm.click();
-		        senKeysWebElement(Plotid,"566554156");
+		        senKeysWebElement(Plotid,"566554157");
 		        senKeysWebElement(FarmSize,"5.8");
 		        Thread.sleep(2000);
 		        selectDropdownValue1(LandOwnership,"Own_W");
