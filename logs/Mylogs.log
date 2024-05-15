@@ -1,0 +1,6 @@
+[TRACE] 2023-10-30 20:13:25.139 [main] PropertyLog4j - This is a trace message
+[DEBUG] 2023-10-30 20:13:25.141 [main] PropertyLog4j - This is a debug message
+[INFO ] 2023-10-30 20:13:25.141 [main] PropertyLog4j - This is a info
+[WARN ] 2023-10-30 20:13:25.141 [main] PropertyLog4j - This is a warning
+[ERROR] 2023-10-30 20:13:25.141 [main] PropertyLog4j - This is an error
+[FATAL] 2023-10-30 20:13:25.142 [main] PropertyLog4j - This is a fatal message

@@ -1,0 +1,1 @@
+{"uuid":"49f48158-b2b5-4c98-b33c-a719011547a6","name":"testCases.Tclogin","children":["668c7705-f666-4024-b71f-c19c9e9dd8b0"],"befores":[],"afters":[{"name":"endTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1712555132559,"stop":1712555132988}],"start":1712555081847,"stop":1712555133045}

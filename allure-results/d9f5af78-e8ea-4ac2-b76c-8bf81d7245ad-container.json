@@ -1,0 +1,1 @@
+{"uuid":"d9f5af78-e8ea-4ac2-b76c-8bf81d7245ad","name":"Tclogin","children":["031ebdf3-770a-4469-b0db-710888508dff"],"befores":[{"name":"startTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1713170223825,"stop":1713170224020}],"afters":[],"start":1713170223788,"stop":1713170236752}

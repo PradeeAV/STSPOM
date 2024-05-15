@@ -1,0 +1,1 @@
+{"uuid":"c96ac962-1ca3-401b-9cd1-85e920e41b4d","name":"Fman Test Suite","children":["9506f31e-4b8a-4c05-b9d9-02d6da37cd35"],"befores":[],"afters":[{"name":"endTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1712748752670,"stop":1712748752976}],"start":1712748730845,"stop":1712748752976}
